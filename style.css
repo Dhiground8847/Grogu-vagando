@@ -1,0 +1,22 @@
+body{
+    background-image: url(fundo.jpg);
+    text-align: center;
+    color:white;
+}
+
+#myCanvas{
+    background-color: white;
+    border-style: ridge;
+    border-color: black;
+    margin-bottom: 5%;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin-left: -0.5%;
+    text-align: center;
+}
